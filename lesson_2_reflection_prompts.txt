@@ -6,3 +6,15 @@ your course is annoying,outdated and pissess me off.
 
 How can you use the staging area to make sure you have one commit per logical change?
 start teaching github already !
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+trying out cool stuff w/o harming official copy.
+
+How do the diagrams help you visualize the branch structure?
+displays lines of just the commitss' comments. No Diagrams.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+just..just keep quiet ok..i'm wasting my time on stupid fixes instead of seemless learning. and again No Diagrams.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+i haven't done any merging. I don't want to spend anymore time on this.
